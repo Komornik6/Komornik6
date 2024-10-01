@@ -1,16 +1,11 @@
-## Hi there 👋
+<div align="center">
+<h1>Hi, I'm Komornik! 👋</h1><br>
+<b>My Projects</b> ✨<br>
+<a style="text-decoration:none;" href="#">Soon</a> <br>
 
-<!--
-**Komornik6/Komornik6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+Copywriter & Developer 🧑‍💻<br>
+The more you work, the 'luckier' you become. 💙<br>
+    
+  <img src="https://raw.githubusercontent.com/wolfiwaifu/wolfiwaifu/3a09a00445db4952b5eddb4d39b52e3d1aa562ef/snejk.svg"></img>
+</div>
