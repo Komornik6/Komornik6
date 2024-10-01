@@ -1,8 +1,9 @@
 <div align="center">
 <h1>Hi, I'm Komornik! 👋</h1><br>
+<b>My Skills</b> 🔨<br><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark"> <br><br>
 <b>My Projects</b> ✨<br>
 <a style="text-decoration:none;" href="#">Soon</a> <br>
-
 <br>
 Copywriter & Developer 💻<br>
 The more you work, the 'luckier' you become. 💙<br>
